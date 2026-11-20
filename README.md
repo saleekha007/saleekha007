@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**saleekha007/saleekha007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Saleekha Valappil 👋
 
-Here are some ideas to get you started:
+### Aspiring Full Stack Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building modern, responsive, and user-friendly websites. I enjoy learning new technologies and improving my skills through practical projects.
+
+## 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+- C Programming
+- MS Word
+- MS Excel
+
+## 💻 My Projects
+- Personal Portfolio Website
+- Course Cards Website
+- Library Management System
+- Tom and Jerry Fan Website
+
+## 🌐 Connect With Me
+- [Portfolio](https://saleekha007.github.io/saleekha-portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/saleekha-valappil-68401a3b9/)
+- [GitHub](https://github.com/saleekha007)
+
+---
+*Always learning. Always growing.*
+
